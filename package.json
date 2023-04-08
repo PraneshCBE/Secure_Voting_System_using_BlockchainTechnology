@@ -8,7 +8,7 @@
     "start-frontend": "cd frontend && npm run serve",
     "start-backend": "cd backend && npm start devStart"
   },
-  "author": "",
+  "author": "Pranesh R",
   "license": "ISC",
   "dependencies": {
     "concurrently": "^8.0.1"
