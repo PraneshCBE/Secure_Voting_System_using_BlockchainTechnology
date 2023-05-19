@@ -58,6 +58,12 @@ Install <folder- name> with git clone
 
 ## Laurels
  - Won **first prize** in the hackathon conducted by **TATA COMMUNICATIONS**  organised by **SASTRA University** 
+  
+##Prototype Screenshots
+  
+  ![image](https://github.com/PraneshCBE/Secure_Voting_System_using_BlockchainTechnology/assets/84131264/25410691-76c7-4377-9656-e7e0da081718)
+![image](https://github.com/PraneshCBE/Secure_Voting_System_using_BlockchainTechnology/assets/84131264/c7fb07e9-67e5-4e40-943c-e46e92502ed4)
+
     
 ## License
 
