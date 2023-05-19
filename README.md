@@ -1,4 +1,5 @@
 
+
 # Secure Voting System using Blockchain Technology
 
 
@@ -6,12 +7,12 @@
 
 ## Tech Stack
 
-**Client:** Vue JS![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+**Client:** Vue JS![Logo](https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg)
 
 **Server:** Node, Express
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg)
 **Business** Ethereum Virtual Machine
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://upload.wikimedia.org/wikipedia/commons/7/76/Ethereum_Classic_logo.svg)
 
 
 
@@ -40,10 +41,10 @@ Overall, the use of cryptographic measures is critical to ensuring the security,
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
-- [@octokatherine](https://www.github.com/octokatherine)
-- [@octokatherine](https://www.github.com/octokatherine)
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@Pranesh R](https://github.com/PraneshCBE)
+- [@Rengaraj R](https://github.com/RengarajR404)
+- Akhilesh R
+- Deepan Kumar S
 
 ## Installation
 
@@ -54,6 +55,9 @@ Install <folder- name> with git clone
   cd "Secure_Voting_System_using_BlockchainTechnology"
   npm run
 ```
+
+## Laurels
+ - Won **first prize** in the hackathon conducted by **TATA COMMUNICATIONS**  organised by **SASTRA University** 
     
 ## License
 
