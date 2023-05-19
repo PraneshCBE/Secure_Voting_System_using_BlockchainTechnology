@@ -7,11 +7,16 @@
 
 ## Tech Stack
 
-**Client:** Vue JS![Logo](https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg)
+**Client:** Vue JS!
+
+[Logo](https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg)
 
 **Server:** Node, Express
+
+
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg)
 **Business** Ethereum Virtual Machine
+
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/7/76/Ethereum_Classic_logo.svg)
 
 
