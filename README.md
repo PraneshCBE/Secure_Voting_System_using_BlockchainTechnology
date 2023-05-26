@@ -9,17 +9,17 @@
 
 **Client:** Vue JS
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width=100px height=100px/>
 
 **Server:** Node, Express
 
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" width=100px height=100px/>
 
 
 **Business** Ethereum Virtual Machine
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/7/76/Ethereum_Classic_logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ethereum_Classic_logo.svg" width=100px height=100px/>
 
 
 
